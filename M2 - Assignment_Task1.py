@@ -1,0 +1,12 @@
+a = input('Enter the first number : ')
+b = input('Enter the second number : ')
+c=float(a)+float(b)
+d=float(a)-float(b)
+e=float(a)*float(b)
+f=float(a)/float(b)
+print('')
+print('Addition: ',c)
+print('Subtraction: ',d)
+print('Multiplication: ',e)
+print('Division: ',f)
+
